@@ -8,3 +8,4 @@ plugins:
       glob:
         - "**/_order.yaml"
         - "**/index.md"
+        - "custom_pages/**"
