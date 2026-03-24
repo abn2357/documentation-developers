@@ -1,0 +1,5 @@
+- getassetissuebyid-1
+- getassetissuebyname
+- getassetissuelist-1
+- getassetissuelistbyname
+- getpaginatedassetissuelist-1

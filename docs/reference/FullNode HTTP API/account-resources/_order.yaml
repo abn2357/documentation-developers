@@ -1,0 +1,17 @@
+- getaccountresource
+- getaccountnet
+- account-resources-freezebalance
+- account-resources-unfreezebalance
+- getdelegatedresource
+- getdelegatedresourceaccountindex
+- freezebalancev2-1
+- unfreezebalancev2-1
+- cancelallunfreezev2
+- delegateresource-1
+- undelegateresource-1
+- withdrawexpireunfreeze
+- getavailableunfreezecount-1
+- getcanwithdrawunfreezeamount-1
+- getcandelegatedmaxsize
+- getdelegatedresourcev2
+- getdelegatedresourceaccountindexv2-1

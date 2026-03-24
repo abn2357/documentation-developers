@@ -1,0 +1,17 @@
+- getblock-1
+- wallet-getblockbynum
+- getblockbyid
+- wallet-getblockbylatestnum
+- getblockbylimitnext
+- wallet-getnowblock
+- wallet-gettransactionbyid
+- gettransactioninfobyid
+- gettransactioninfobyblocknum
+- wallet-listnodes
+- wallet-getnodeinfo
+- wallet-getchainparameters
+- getblockbalance
+- getenergyprices
+- getbandwidthprices
+- getburntrx
+- http-getapprovedlist

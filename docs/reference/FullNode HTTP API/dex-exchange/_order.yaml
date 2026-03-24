@@ -1,0 +1,5 @@
+- wallet-listexchanges
+- wallet-getexchangebyid
+- exchangecreate
+- exchangeinject
+- exchangewithdraw

@@ -1,0 +1,10 @@
+- listwitnesses
+- createwitness
+- updatewitness
+- wallet-getbrokerage
+- wallet-updatebrokerage
+- votewitnessaccount
+- wallet-getreward
+- withdrawbalance
+- getnextmaintenancetime
+- getpaginatednowwitnesslist

@@ -1,0 +1,14 @@
+- getspendingkey
+- getexpandedspendingkey
+- getakfromask
+- getnkfromnsk
+- getincomingviewingkey
+- getdiversifier
+- getzenpaymentaddress
+- getnewshieldedaddress
+- createshieldedcontractparameters
+- createspendauthsig
+- gettriggerinputforshieldedtrc20contract
+- scanshieldedtrc20notesbyivk
+- scanshieldedtrc20notesbyovk
+- isshieldedtrc20contractnotespent

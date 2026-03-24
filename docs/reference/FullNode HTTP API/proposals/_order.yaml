@@ -1,0 +1,5 @@
+- wallet-listproposals
+- getproposalbyid
+- proposalcreate
+- proposalapprove
+- proposaldelete

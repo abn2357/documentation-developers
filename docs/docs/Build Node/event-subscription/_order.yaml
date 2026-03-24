@@ -1,0 +1,3 @@
+- event-plugin-deployment-mongodb
+- event-plugin-deployment-kafka
+- use-java-trons-built-in-message-queue-for-event-subscription
