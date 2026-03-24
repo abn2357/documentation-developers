@@ -1,0 +1,9 @@
+site_name: java-tron developers
+theme:
+  name: material
+
+plugins:
+  - search
+  - exclude:
+      glob:
+        - "**/_order.yaml"
